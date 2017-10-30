@@ -31,7 +31,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="apply.php" class="logo">Apply</a>
+						<a href="https://jinshuju.net/f/WTpZi3" class="logo">Apply</a>
 					</header>
 
 				<!-- Nav -->

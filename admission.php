@@ -19,7 +19,7 @@
 
 				<!-- Header -->
 				<header id="header">
-						<a href="apply.php" class="logo">Apply</a>
+						<a href="https://jinshuju.net/f/WTpZi3" class="logo">Apply</a>
 					</header>
 
 				<!-- Nav -->
@@ -72,9 +72,9 @@
 								Applicants can submit their application through the <strong><a href="https://www.commonapp.org">Uncommon Application</a></strong> website.
 								<br><br>
 								<h3>WCU ApplyWeb</h3>
-								Applicants can send their application to WCU directly online through <strong><a href="">WCU ApplyWeb</a></strong>.
+								Applicants can send their application to WCU directly online through <strong><a href="https://jinshuju.net/f/WTpZi3">WCU ApplyWeb</a></strong>.
 								<br><br>
-								<a href="#" class="button fit">Apply Now</a>
+								<a href="https://jinshuju.net/f/WTpZi3" class="button fit">Apply Now</a>
 							</section>
 
 					</div>
