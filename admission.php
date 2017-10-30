@@ -70,6 +70,8 @@
 								<h2>Procedures</h2>
 								<h3>The Uncommon Application</h3>
 								Applicants can submit their application through the <strong><a href="https://www.commonapp.org">Uncommon Application</a></strong> website.
+								<br>
+								<img src="images/ca.png" style="max-width:70%"/>
 								<br><br>
 								<h3>WCU ApplyWeb</h3>
 								Applicants can send their application to WCU directly online through <strong><a href="https://jinshuju.net/f/WTpZi3">WCU ApplyWeb</a></strong>.
