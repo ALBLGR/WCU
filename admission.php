@@ -50,7 +50,8 @@
 								
 								<h2>Requirement</h2>
 								<h3>Secondary Education</h3>
-								Applicants should be attaining their high school degree before July 1, 2018 for 2018 Fall Entry. Either AP, A-Level, IB, or 高考 is accepted. There is <strong>NO</strong> specific requirement for courses while the <strong>Maximum Requirement of Weighted GPA is 3.99</strong>. Applicants with unqualified GPA in their final report will be dismissed and will not refunded application fee.
+								Applicants should be attaining their high school degree before July 1, 2018 for 2018 Fall Entry. Either AP, A-Level, IB, or 高考 is accepted. There is <strong>NO</strong> specific requirement for courses while the <strong>Maximum Requirement of Unweighted GPA is 3.95</strong>.<br>
+								 Wild Chicken believe that your life will be <strong>incomplete and boring</strong> if you spend all your time getting a good GPA. Applicants with unqualified GPA in their final report will be dismissed and will not refunded application fee.
 								<br><br>
 								<h3>Standard Test</h3>
 								For applicants taking the redesigned SAT, the <strong>maximum</strong> score requirement is <strong>1,500</strong>. For ACT, the <strong>maximum</strong> score requirement is <strong>33</strong>. Please contact the Office of Admissions for inquiries of other standard tests.
